@@ -121,14 +121,19 @@ Description: Used to style blocks in the editor.
 	.edit-post-visual-editor .editor-block-list__block h4 {
 		font-size: 20px;
 		line-height: 1.4;
-		padding: .7em 0 0.35em;
+		padding: 0.7em 0 0.35em;
 	}
 
-	.edit-post-visual-editor .editor-block-list__block h5,
-	.edit-post-visual-editor .editor-block-list__block h6 {
+	.edit-post-visual-editor .editor-block-list__block h5 {
 		font-size: 17px;
 		line-height: 1.2353;
 		padding: 0.8em 0 0.4em;
+	}
+
+	.edit-post-visual-editor .editor-block-list__block h6 {
+		font-size: 16px;
+		line-height: 1.25;
+		padding: 0.8125em 1.625em;
 	}
 }
 
@@ -169,11 +174,16 @@ Description: Used to style blocks in the editor.
 		padding: 0.75em 0 0.35em;
 	}
 
-	.edit-post-visual-editor .editor-block-list__block h5,
-	.edit-post-visual-editor .editor-block-list__block h6 {
+	.edit-post-visual-editor .editor-block-list__block h5 {
 		font-size: 19px;
 		line-height: 1.2632;
 		padding: 0.8em 0 0.4em;
+	}
+
+	.edit-post-visual-editor .editor-block-list__block h6 {
+		font-size: 18px;
+		line-height: 1.3333;
+		padding: 1.3em 0 0.65em;
 	}
 }
 
@@ -214,11 +224,16 @@ Description: Used to style blocks in the editor.
 		padding: 0.65em 0 0.3em;
 	}
 
-	.edit-post-visual-editor .editor-block-list__block h5,
-	.edit-post-visual-editor .editor-block-list__block h6 {
+	.edit-post-visual-editor .editor-block-list__block h5 {
 		font-size: 15px;
 		line-height: 1.2;
 		padding: 0.8em 0 0.4em;
+	}
+
+	.edit-post-visual-editor .editor-block-list__block h6 {
+		font-size: 14px;
+		line-height: 1.2;
+		padding: 0.8214em 1.6429em;
 	}
 }
 
@@ -259,11 +274,16 @@ Description: Used to style blocks in the editor.
 		padding: 0.7em 0 0.35em;
 	}
 
-	.edit-post-visual-editor .editor-block-list__block h5,
-	.edit-post-visual-editor .editor-block-list__block h6 {
+	.edit-post-visual-editor .editor-block-list__block h5 {
 		font-size: 17px;
 		line-height: 1.2353;
 		padding: 0.8em 0 0.4em;
+	}
+
+	.edit-post-visual-editor .editor-block-list__block h6 {
+		font-size: 16px;
+		line-height: 1.25;
+		padding: 0.8125em 1.625em;
 	}
 }
 
@@ -292,11 +312,16 @@ Description: Used to style blocks in the editor.
 		padding: 0.75em 0 0.35em;
 	}
 
-	.edit-post-visual-editor .editor-block-list__block h5,
-	.edit-post-visual-editor .editor-block-list__block h6 {
+	.edit-post-visual-editor .editor-block-list__block h5 {
 		font-size: 19px;
-		line-height: 1.2632;
+		line-height: 1.6842;
 		padding: 0.85em 0 0.45em;
+	}
+
+	.edit-post-visual-editor .editor-block-list__block h6 {
+		font-size: 18px;
+		line-height: 1.3333;
+		padding: 1.3em 0 0.65em;
 	}
 }
 
